@@ -5,8 +5,8 @@ import re
 
 """ These are your github credentials """
 
-username = 'imadmekkaoui7'
-token = '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'
+username = '<your github username>'
+token = '<your github access token>'
 
 # create a re-usable session object with the user creds in-built
 gh_session = requests.Session()
